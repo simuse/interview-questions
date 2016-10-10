@@ -1,0 +1,11 @@
+#CSS / Sass
+- différence entre un style inline/embedded/externe ?
+- différence entre ID et class ?
+- différence entre `display: none` et `visibility: hidden` ?
+- qu'est ce que le box model ?
+- le responsive design ?
+- un préprocesseur, ses avantages ?
+- un mixin vs une fonction ?
+- qu'est-ce que flexbox ?
+- des examples de frameworks css ?
+- explique moi ce sélecteur => `[role=navigation] > ul li:not(:first-child) {}`
