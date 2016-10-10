@@ -8,7 +8,7 @@
 - la différence entre standard mode et quirks mode ?
 - la différence entre `<div>`, `<section>`, `<article>` ?
 - les tags introduits en HTML5 ?
-    - <article>, <aside>, <bdi>, <command>, <details>, <figure>, <figcaption>, <summary>, <header>, <footer>, <hgroup>, <mark>, <meter>, <nav>, <progress>, <ruby>, <rt>, <section>, <time>, <wpr>
-- a quoi sert <canvas> ?
-- qu'est-ce que le local Storage ?
+    - `<article> <aside> <bdi> <command> <details> <figure> <figcaption> <summary> <header> <footer> <hgroup> <mark> <meter> <nav> <progress> <ruby> <rt> <section> <time> <wpr>`
+- a quoi sert `<canvas>` ?
+- qu'est-ce que le LocalStorage ?
 - les APIs introduites en HTML5 ?
