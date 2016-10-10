@@ -1,0 +1,21 @@
+# PHP
+
+- différence entre `include()` et `require()` ?
+- comment récuperer les infos envoyées par un formulaire ?
+    - différence entre GET et POST
+- disons que le champ 'email' est obligatoire, comment tester ca
+    - `if (!empty($_POST['email'])) {}`
+- que fait la fonction `in_array()` ?
+- quels types de loops existent ?
+    - for, while, do while, foreach
+- comment faire une concaténation ?
+- la différence entre une constante et une variable ?
+- quels sont les types d'erreurs que PHP peut signaler ?
+    - notices, warning, fatal
+- orienté objet, comment définir une classe ?
+    - `class SimpleClass {}`
+    - `__contruct()`
+- comment connaître le nombre d'éléments dans un array ?
+    - `count()`
+- comment faire persister des datas d'une page à l'autre ?
+- que veut dire MVC ?
