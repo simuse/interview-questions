@@ -3,6 +3,7 @@
 - différence entre ID et class ?
 - différence entre `display: none` et `visibility: hidden` ?
 - qu'est ce que le box model ?
+  - comment prévenir d'éventuels problèmes ?
 - le responsive design ?
 - un préprocesseur, ses avantages ?
 - un mixin vs une fonction ?
