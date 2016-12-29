@@ -34,7 +34,7 @@
     - défaut est `window`
     - ...
 - comment vérifier si une variable est un objet ?
-    - `if (bar !== null) && (typeof bar === "object") `
+    - `if (bar !== null) && (typeof bar === "object")`
     - piège: null est aussi considéré un objet
 - quelle est la différence entre `"1"+2+3` et `1+2+"3"` ?
     - 123 et 33
@@ -48,7 +48,6 @@
 ## Extra
 - à quoi sert jQuery ? examples de fonctions ?
     - avantages/désavantages
-    - examples de fonctions
     - alternative
 - qu'est-ce que ES6/ES2015 ?
     - babel
@@ -58,3 +57,4 @@
     - ember
     - react
     - backbone
+    - ...
