@@ -66,3 +66,8 @@
     - react
     - backbone
     - ...
+
+## Tricks
+- quel est le résultat de [1] + [2] - [3] ?
+    - 9
+    - [coercion](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20%26%20grammar/ch4.md): "1" + "2" - "3" = 12 - "3" = 9 
