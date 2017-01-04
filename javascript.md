@@ -67,7 +67,9 @@
     - backbone
     - ...
 
-## Tricks
+## Tricks (juste pour le fun)
 - quel est le résultat de [1] + [2] - [3] ?
     -  "1" + "2" - "3" = 12 - "3" = 9 
     - [coercion](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20%26%20grammar/ch4.md)
+- quel est le résultat de (!+[]+[]+![]).length ?
+    - 9... oui...
