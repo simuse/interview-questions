@@ -35,6 +35,9 @@
     - `$variable = isTrue() ? true : false`
 - avec quelle fonction lis-tu un fichier sur le serveur ?
     - `file_get_contents()`
+- comment empêcher des injections SQL ?
+    - `mysql_real_escape_string`
+    - mysqli, PDO
 - quelle est la différence entre `unlink() ` et `unset()` ?
     - supprime un fichier / supprime une variable
 - quelles méthodes de hashing sont recommandées ?
