@@ -4,7 +4,7 @@
 - différence entre `include()` et `require()` ?
 - comment récuperer les infos envoyées par un formulaire ?
     - différence entre GET et POST
-- disons que le champ 'email' est obligatoire, comment tester ca
+- disons que le champ 'email' est obligatoire, comment tester s'il a été rempli ? 
     - `if (!empty($_POST['email'])) {}`
 - que fait la fonction `in_array()` ?
 - quels types de loops existent ?
@@ -15,7 +15,7 @@
     - notices, warning, fatal
 - comment connaître le nombre d'éléments dans un array ?
     - `count()`
-- comment est-ce que tu crées une constante ?
+- comment créer une constante ?
     - `define(KEY, $value)`
 - que signifie `$_SERVER` ?
 
@@ -26,11 +26,11 @@
     - array retourne la collection
 - qu'appelle-t-on l'opérateur de condition ternaire ? example ?
     - `$variable = isTrue() ? true : false`
-- orienté objet, comment définir une classe ?
+- orienté objet, comment fonctionne une classe ?
     - `class SimpleClass {}`
     - `__contruct()`
 - qu'est-ce que l'héritage en PHP ?
-- que veut dire `final` en OOP ?
+- que veut dire le mot clé `final` en OOP ?
 - avec quelle fonction lis-tu un fichier sur le serveur ?
     - `file_get_contents()`
 - quelle est la différence entre `unlink() ` et `unset()` ?
@@ -39,6 +39,7 @@
     - `crypt()`
     - `hash()`
 - comment faire persister des datas d'une page à l'autre ?
+    - session, cookies, database, post
 - que veut dire MVC ?
 
 ## Symfony
