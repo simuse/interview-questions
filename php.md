@@ -19,6 +19,13 @@
     - `define(KEY, $value)`
 - que signifie `$_SERVER` ?
 
+## OOP
+- orienté objet, comment fonctionne une classe ?
+    - `class SimpleClass {}`
+    - `__contruct()`
+- qu'est-ce que l'héritage en PHP ?
+- que veut dire le mot clé `final` en OOP ?
+
 ## Intermediaire
 - quelle est la différence entre mysql et PDO ?
 - quelle est la différence entre `mysql_fetch_array` et `mysql_fetch_object` ?
@@ -26,11 +33,6 @@
     - array retourne la collection
 - qu'appelle-t-on l'opérateur de condition ternaire ? example ?
     - `$variable = isTrue() ? true : false`
-- orienté objet, comment fonctionne une classe ?
-    - `class SimpleClass {}`
-    - `__contruct()`
-- qu'est-ce que l'héritage en PHP ?
-- que veut dire le mot clé `final` en OOP ?
 - avec quelle fonction lis-tu un fichier sur le serveur ?
     - `file_get_contents()`
 - quelle est la différence entre `unlink() ` et `unset()` ?
