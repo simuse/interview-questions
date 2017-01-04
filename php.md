@@ -20,10 +20,10 @@
 - que signifie `$_SERVER` ?
 
 ## OOP
-- orienté objet, comment fonctionne une classe ?
+- en orienté objet, comment fonctionne une classe ?
     - `class SimpleClass {}`
     - `__contruct()`
-- qu'est-ce que l'héritage en PHP ?
+- qu'est-ce que l'héritage ?
 - que veut dire le mot clé `final` en OOP ?
 
 ## Intermediaire
