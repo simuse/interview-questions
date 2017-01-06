@@ -7,4 +7,4 @@ Interview questions in French
 - [Javascript](https://github.com/simuse/interview-questions/blob/master/javascript.md)
 - [PHP](https://github.com/simuse/interview-questions/blob/master/php.md)
 
-TODO: ajouter des questions sur les bonnes pratiques / formatting (cf. linters)
+TODO: ajouter des questions sur les bonnes pratiques / formatting (cf. linting tools)
